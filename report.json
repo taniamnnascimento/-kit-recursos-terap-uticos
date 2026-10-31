@@ -1,0 +1,12 @@
+{
+  "pageUrl": "https://kitconsultorioludico.vercel.app/",
+  "downloadedAt": "2026-10-30T17:57:01.400Z",
+  "stats": {
+    "assetsDownloaded": 17,
+    "assetsSkipped": 3,
+    "totalBytes": 2390363,
+    "errors": [
+      "404: https://kitconsultorioludico.vercel.app/url"
+    ]
+  }
+}
